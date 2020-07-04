@@ -1,2 +1,2 @@
-# stausman
+# statsman
 The status manager
