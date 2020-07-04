@@ -1,0 +1,2 @@
+# stausman
+The status manager
